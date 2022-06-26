@@ -103,7 +103,9 @@
 <br>
 
 - 제외 이후, 이전 model을 재학습
+
 	<img src = "https://user-images.githubusercontent.com/77204538/175822989-0dc15340-8ef0-4a87-bc46-f9fb378f154c.png"  width=700 height=200>
+	
 	- Dataset 1, 2, 3, 4는 미세한 성능 향상을 보였으나,  5, 6, 7은 오히려 예측 성능이 낮아졌음
 	
 ## 5. 결론
